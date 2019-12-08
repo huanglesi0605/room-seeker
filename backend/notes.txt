@@ -1,0 +1,18 @@
+-------------------------------------------------
+Generate python codes from swagger.yaml
+
+pip3 install swagger-py-codegen
+swagger_py_codegen -s swagger.yaml app -p demo --ui --spec
+
+
+--------------------------------------------------
+Run backend
+
+python3 __init__.py
+Browse http://127.0.0.1:5000/static/swagger-ui/index.html
+
+
+--------------------------------------------------
+install PyJWT
+pip install PyJWT
+
