@@ -2,7 +2,7 @@ Flask_Cors==3.0.6
 six==1.11.0
 pymongo==3.9.0
 Flask_RESTful==0.3.7
-requests==2.19.1
+requests==2.20.0
 Flask==1.0.2
 Werkzeug==0.14.1
 jsonschema==2.6.0
