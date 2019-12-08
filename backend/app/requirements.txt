@@ -4,7 +4,7 @@ pymongo==3.9.0
 Flask_RESTful==0.3.7
 requests==2.19.1
 Flask==1.0.2
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 jsonschema==2.6.0
 numpy==1.15.0
 PyJWT==1.7.1
