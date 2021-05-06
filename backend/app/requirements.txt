@@ -1,4 +1,4 @@
-Flask_Cors==3.0.6
+Flask_Cors==3.0.9
 six==1.11.0
 pymongo==3.9.0
 Flask_RESTful==0.3.7
